@@ -1,8 +1,8 @@
-<h1 style="text-align: center;">Thebere ✨</h1>
-<p style="text-align: center;"><i>Technical Team Lead @ Rentgrata | Architect Building HolonX</i></p>
+<h1>Thebere ✨</h1>
+<p><i>Technical Team Lead @ Rentgrata | Architect Building HolonX</i></p>
 
-Welcome to my GitHub! I'm a passionate technical architect, diving deep into the realms of data engineering and software development. 
-With a knack for transforming complex challenges into scalable solutions, I strive to make a lasting impact through technology.
+Welcome to my GitHub! I'm a software engineer 👋
+
 
 <hr />
 
