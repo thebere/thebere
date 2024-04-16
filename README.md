@@ -21,11 +21,12 @@
 <hr />
 
 
-### Languages and Tools:
+### Languages, Tools, & Skills:
 [//]: # (###### Backend)
+![Bash](https://img.shields.io/badge/Bash-05122A.svg?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
 ![Go](https://img.shields.io/badge/go-05122A.svg?style=flat&logo=go&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Elixir](https://img.shields.io/badge/elixir-05122A.svg?style=flat&logo=elixir&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-05122A.svg?style=flat&logo=elixir&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![NestJS](https://img.shields.io/badge/nestjs-05122A.svg?style=flat&logo=nestjs&logoColor=white)
 
@@ -46,6 +47,10 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-05122A.svg?style=flat&logo=kubernetes&logoColor=white)&nbsp;
 ![Grafana](https://img.shields.io/badge/grafana-05122A.svg?style=flat&logo=grafana&logoColor=white)&nbsp;
 ![Prometheus](https://img.shields.io/badge/Prometheus-05122A?style=flat&logo=Prometheus&logoColor=white)&nbsp;
+![Envoy](https://img.shields.io/badge/Envoy-05122A.svg?style=flat&logo=envoyproxy&logoColor=white)&nbsp;
+![Terraform](https://img.shields.io/badge/Terraform-05122A.svg?style=flat&logo=terraform&logoColor=white)&nbsp;
+![Pulumi](https://img.shields.io/badge/Pulumi-05122A.svg?style=flat&logo=pulumi&logoColor=white)&nbsp;
+
 
 [//]: # (###### Database)
 ![Postgres](https://img.shields.io/badge/postgres-05122A.svg?style=flat&logo=postgresql&logoColor=white)&nbsp;
@@ -62,6 +67,12 @@
 
 [//]: # (###### Tools)
 ![Neovim](https://img.shields.io/badge/NeoVim-05122A.svg?&style=flat&logo=neovim&logoColor=white)&nbsp;
+![JetBrains](https://img.shields.io/badge/JetBrains-black?style=flat&logo=jetbrains&logoColor=white)&nbsp;
+
+[//]: # (###### Ecosystems)
+![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=flat)&nbsp;
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-00758F?style=flat)&nbsp;
+![Documentation Authoring](https://img.shields.io/badge/Documentation%20Authoring-%23006f5c?style=flat&logo=markdown&logoColor=white)&nbsp;
 
 <hr />
 
