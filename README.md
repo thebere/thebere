@@ -1,15 +1,14 @@
 <h1>Thebere ✨</h1>
-<p><i>Technical Team Lead @ Rentgrata | Architect Building HolonX</i></p>
+<p>Technical Team Lead @ Rentgrata | Architect Building HolonX</p>
 
-Welcome to my GitHub! I'm a software engineer 👋
-
+![I LEARN AND I BUILD THINGS](https://img.shields.io/badge/I%20LEARN%20AND%20I%20BUILD%20THINGS-passing-brightgreen)
 
 <hr />
 
 🌟 **What I'm Working On:**
-- 🌱 **[Rentgrata](https://rentgrata.com/)**: Leading technical projects and fostering an environment of innovation and growth.
-- 👨🏾‍ **[HolonX](holonlabs.xyz)**: Actively developing and refining this innovative platform. Stay tuned for updates!
-- 👷 **[Salespod](https://salespod.co/)**: Building a platform that empowers sales teams to achieve their goals with ease.
+- 🤖 **[Rentgrata](https://rentgrata.com/)**: Technical Team Lead fostering an environment of innovation and growth.
+- 👨🏾‍💻‍ **[HolonLabs](holonlabs.xyz)**: Architecting HolonLabs' vision to innovate within the agricultural supply chain.   
+- 🚀 **[Salespod](https://salespod.co/)**: Co-founder focused on steering technological strategy and driving innovation.
 
 📝 **Essay Publication: In Principle:**
 - Exploring the intersections of technology, culture, and human progress. Check out my [Substack](https://thebere.substack.com/)!
@@ -17,6 +16,7 @@ Welcome to my GitHub! I'm a software engineer 👋
 ### Connect with me:
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=flat&logo=substack&logoColor=FF6719)](https://thebere.substack.com/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuaudensi)
+[![GMail](https://img.shields.io/badge/Gmail-D14836?style=flate&logo=gmail&logoColor=white)](mailto:josh@thebere.com)
 
 <hr />
 
