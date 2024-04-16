@@ -6,9 +6,9 @@
 <hr />
 
 🌟 **What I'm Working On:**
-- 🤖 **[Rentgrata](https://rentgrata.com/)**: Technical Team Lead fostering an environment of innovation and growth.
+- 🤖 **[Rentgrata](https://rentgrata.com/)**: Technical Team Lead maintaining a deep understanding of the technology stack and drive continuous improvement in practices and processes.
 - 👨🏾‍💻‍ **[HolonLabs](holonlabs.xyz)**: Architecting HolonLabs' vision to innovate within the agricultural supply chain.   
-- 🚀 **[Salespod](https://salespod.co/)**: Co-founder focused on steering technological strategy and driving innovation.
+- 🚀 **[Salespod](https://salespod.co/)**: Co-founder focused on technological strategy and driving innovation.
 
 📝 **Essay Publication: In Principle:**
 - Exploring the intersections of technology, culture, and human progress. Check out my [Substack](https://thebere.substack.com/)!
