@@ -7,8 +7,7 @@
 
 🌟 **What I'm Working On:**
 - 🤖 **[Rentgrata](https://rentgrata.com/)**: Technical Team Lead maintaining a deep understanding of the technology stack and drive continuous improvement in practices and processes.
-- 👨🏾‍💻‍ **[HolonLabs](holonlabs.xyz)**: Architecting HolonLabs' vision to innovate within the agricultural supply chain.   
-- 🚀 **[Salespod](https://salespod.co/)**: Co-founder focused on technological strategy and driving innovation.
+- 👨🏾‍💻‍ **[HolonLabs](holonlabs.xyz)**: Architecting Holonlabs' vision to innovate within the agricultural supply chain.   
 
 📝 **Essay Publication: In Principle:**
 - Exploring the intersections of technology, culture, and human progress. Check out my [Substack](https://thebere.substack.com/)!
@@ -76,5 +75,12 @@
 
 <hr />
 
+### 📚 Currently reading
+- 🧠 [Intelligent Systems for Engineers and Scientist](https://www.amazon.com/Intelligent-Systems-Engineers-Scientists-Intelligence/dp/0367336162)
+- 🤖 [The Constitution of Algorithms: Ground-Truthing, Programming, Formulating](https://www.amazon.com/Constitution-Algorithms-Ground-Truthing-Programming-Formulating/dp/0262542145)
+- ⏀ [Active Inference](https://www.amazon.com/Active-Inference-Energy-Principle-Behavior-ebook/dp/B096DBD7GX)
+- 
+
 ### 🤝️ **Get in Touch:**
 Feel free to reach out to me at [josh@thebere.com](mailto:josh@thebere.com) for collaborations.
+<hr />
